@@ -8,7 +8,7 @@ do
 		# echo $ username":"'123456' | chpasswd
 		echo "$username:123456" | chpasswd
 		echo
-		echo "User $username's password is changed!"
+		echo "User $username's password has been changed!"
 	else
 		echo "The username is null!"
 	fi
