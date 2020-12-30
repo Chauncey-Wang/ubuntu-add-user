@@ -6,3 +6,6 @@ Ubuntu下通过shell脚本批量新建用户并设置默认密码 配套代码
 
 在users.list中设定需要新建的用户
 在Ubuntu下通过 ./test_user_add.sh 执行新建用户脚本
+
+在user_del.list中设定需要删除的用户
+在Ubuntu下通过 ./test_user_del.sh 执行删除用户脚本
